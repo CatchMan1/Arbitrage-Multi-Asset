@@ -1,0 +1,16 @@
+# Local datasets and experiment results
+/data/
+/outputs/
+/output/
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local settings and temporary web files
+.DS_Store
+.env
+.env.*
+.firecrawl/
