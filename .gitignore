@@ -1,7 +1,6 @@
-# Local datasets and experiment results
-/data/
-/outputs/
-/output/
+# Experiment results stay local; data/ is versioned
+outputs/
+output/
 
 # Python and Jupyter caches
 __pycache__/
